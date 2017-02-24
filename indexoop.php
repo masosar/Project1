@@ -153,6 +153,9 @@ $mercedes = new Car2("Mercedes Benz");
 //$mercedes->setModel("Mercedes Benz");
 
 echo $mercedes->getModel();
+
+
+
 echo "<br>";
 echo "<br>";
 echo "<br>";
