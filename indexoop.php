@@ -155,5 +155,11 @@ $mercedes = new Car2("Mercedes Benz");
 echo $mercedes->getModel();
 echo "<br>";
 echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>"; //Test1S
 
 ?>
